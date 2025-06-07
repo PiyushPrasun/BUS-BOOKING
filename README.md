@@ -38,30 +38,7 @@ The Bus ticket application is composed of the following Features:
 * This version does not support dynamic seat data being stored from cloud.
 
 
-This project also demonstrates:
 
-* a typcial React project layout structure
-
-**Screenshots:**
-Landing Page:
-
-![](documentationResources/bus.gif)
-
-Signing In Page:
-
-![](documentationResources/signin.png)
-
-Bus Selection Page:
-
-![](documentationResources/bus-page.png)
-
-Seat Selection Page:
-
-![](documentationResources/seatSelection.gif)
-
-Payment & Confirmation Page:
-![](documentationResources/payment.gif)
----
 
 ## Developed With
 
